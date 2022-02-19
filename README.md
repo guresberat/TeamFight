@@ -2,7 +2,7 @@
 
 - An app I made for Google Bugdroid Academy competition
 
-Note : I had to use beginner knowledge only for the competition. Which is why the code is not very pleasant.
+Note : I had to use beginner knowledge only for the competition. Which is why the code quality is low.
 
 ## Built With 
 
